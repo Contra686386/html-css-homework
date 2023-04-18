@@ -1,0 +1,22 @@
+h1 {
+    color:rgba(22, 19, 226, 0.87);
+}
+h2 {
+    color:rgb(230, 47, 15);
+}
+
+h3 {
+    color:rgb(200,2,100);
+    margin-top: auto;
+}
+body {
+    background-color:yellowgreen;
+}
+#profile-name {
+    background-color: rgb(22, 19, 226);
+    color: aquamarine;
+}
+
+#profile-pic {
+    padding:0%;
+}
